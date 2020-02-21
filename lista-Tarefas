@@ -1,3 +1,31 @@
+express
+nodeschool
+react
+logica
+conceito e exemplo de API REST
+
+
+protocolo HTTP
+verbo HTTP
+requisição(request)
+resposta(response)
+status code(200,300,400,500)
+na mensagem HTTP temos o header e o body
+json
+o que é recurso REST
+
+query param(string)
+path param
+
+api.chucknorris.io
+gist.github.com
+ics.uci.edu
+flaviomicheletti
+
+
+
+
+
 18. chucknorris (postman)
 19. request no próprio github (postman)
 20. criar uma API node com query string e quer path (code)
